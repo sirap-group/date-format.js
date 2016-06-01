@@ -9,6 +9,10 @@ A bower package for Steven Levithan's excellent [dateFormat()][dateformat] funct
 * The date defaults to the current date/time.
 * The mask defaults to dateFormat.masks.default.
 
+## Version
+
+This repository starts with the verions v1.2.4 because the code is patched from this gist, versionned to v.1.2.3 : https://gist.github.com/rbecheras/623ed6ac29fd64b8c0807ccbdfd9c87a
+
 ## Modifications
 
 * Redesigned the code to follow 'use strict' javascript mode and standard.js code style
