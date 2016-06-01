@@ -1,0 +1,29 @@
+{
+  "name": "date-format",
+  "version": "0.1.0",
+  "authors": [
+    "Rémi Becheras <rbecheras@sirap.fr>"
+  ],
+  "description": "A bower component for the excellent Steven Levithan's dateFormat library.",
+  "main": "date-format.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "date",
+    "format",
+    "javascript",
+    "bower",
+    "module",
+    "library"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rbecheras/date-format.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
