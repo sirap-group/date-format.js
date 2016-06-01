@@ -20,7 +20,7 @@ This repository starts with the verions v1.2.4 because the code is patched from 
 
 ## Installation
 
-    bower install date-format --save
+    bower install date-format.js --save
 
 ## Usage
 
